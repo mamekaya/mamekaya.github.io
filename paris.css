@@ -1,0 +1,35 @@
+body { 
+    background-color: dimgray;
+    background-image: url(arriere\ plan\ 1.jpg);
+    background-image: url(arriere\ plan\ 1.jpg);
+}
+#contenu{ 
+    width: 60pc;
+    margin: auto;
+border-style: solid;
+border-color: black;
+border-width: 6px;
+font-style: normal;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#titre{ 
+    text-align: center;
+}
+
+#int{  width: 80pc;
+    margin: auto;
+border-style: solid;
+border-color: black;
+border-width: 12px;
+font-style: italic;
+
+}
+#ny{  width: 60pc;
+    margin: auto;
+border-style: solid;
+border-color: black;
+border-width: 12px;
+font-style: italic;
+    
+}
+li { list-style-type: none;}
